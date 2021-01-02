@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to VictorWei's World!"
 date:   2021-01-02 16:22:05 +0800
 categories: jekyll update
 ---
